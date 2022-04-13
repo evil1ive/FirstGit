@@ -195,3 +195,8 @@ html, body{
 h1 {
     color:black;
 }
+
+p{
+    color: red;
+    text-transform: uppercase;
+}
